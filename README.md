@@ -17,4 +17,4 @@ I currently work with IaaS and security with SPIRE in a research project at my u
 
 ### Contact me
 
-sara.arianne.siqueira@ccc.ufcg.edu.br or DM me at [LinkedIn](www.linkedin.com/in/sara-siqueira-cs)
+sara.arianne.siqueira@ccc.ufcg.edu.br or DM me at [LinkedIn](https://www.linkedin.com/in/sara-siqueira-cs/)
