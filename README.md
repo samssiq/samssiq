@@ -4,7 +4,7 @@
 
 My name is Sara, and I am a Computer Science undergraduate. I am really interested about DevOps, Networking, Cybersecurity and SysAdmin, but now I am trying to get better at developing applications too. 
 
-I currently work with IaaS and security with SPIRE in a research project at my university, and I am doing some personal projects in the meantime. I'll upload my personal repositories here at my page but sometimes my college projects will pop here too.
+I currently work with IaaS and security with SPIRE in a research project at my university, and I am doing some personal projects in the meantime. I'll upload my personal repositories here at my page but sometimes my college projects will pop  too.
 
 ***
 ### Languages and tools
